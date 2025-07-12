@@ -1,6 +1,6 @@
 #!/bin/sh
 
-SITE=ccl-unstuck-curriculum-amye4qzbia-uc.a.run.app
+SITE=ccl-unstuck-curriculum-466181022071.us-central1.run.app
 
 # delete existing site files
 rm *.html
